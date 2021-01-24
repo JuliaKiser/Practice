@@ -1,0 +1,11 @@
+#wrapper  {
+    width:600px;
+    margin: 0 auto;
+}
+#fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 40px;
+    background-color: #eee;
+}
